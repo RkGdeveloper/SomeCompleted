@@ -1,0 +1,7 @@
+1|PaymentHydra|NTR|0005|
+2|PaymentDSOS|GTR|0010|
+3|PaymentDNDS|GTR|0010|
+4|PaymentCards|GTR|0010|
+5|Pulse|GAEF|0018|
+6|PaymentDMS|GTR|0019|
+7|Pulse|CTR|0020|
